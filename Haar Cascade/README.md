@@ -4,7 +4,7 @@ The image set is too large to upload into GIT, sample images can be seen below -
 
 ## Infected Cropped Cell Samples
 
-![Infected Image 1](Haar Cascade/Sample Images/5 infected.png)
+![Infected Image 1](Sample Images/5 infected.png)
 
 ![Infected Image 2](Haar Cascade/Sample Images/6 infected.png)
 
