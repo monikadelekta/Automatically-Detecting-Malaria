@@ -36,10 +36,12 @@ There are three solutions to this problem that have been compared. Roughly the s
     1. Estimate Image Cell Count
     1. Colour Rebalance Image
     1. Identify and Label Infected Cells
+    
 2.Haar Cascade 
     2. Create Positive & Negative Image Text File
     2. Create .vec File From Positive Images
     2. Train Cascade
+    
 3. Convolutional Neural Network
     3. Resize Images and Convert to Grayscale
     3. Label Images
