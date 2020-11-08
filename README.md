@@ -1,6 +1,8 @@
 # Automatically-Detecting-Malaria
 Repo to automatically detect malaria in blood sample images, using Python.
 
+The below is a summary from my final dissertation which is loaded into the GIT repository.
+
 ## Purpose & Abstract
 
 Malaria is spread by a parasite carried in the female mosquito, which is passed to a human when the mosquito bites them. Areas facing poverty are the most affected by Malaria, this is because there is a lack of proper healthcare. It is too expensive to pay laboratory assistants to diagnose blood samples for Malaria. To save costs, these countries simply provide anti-malarial medication to anyone showing any signs or symptoms of Malaria under clinical diagnosis. This, unfortunately, creates a drug resistance making the anti-malarial drugs ineffective. The focus of this project is to produce software that can automatically diagnose Malaria in images of Giemsa stained erythrocytes under a microscope.
