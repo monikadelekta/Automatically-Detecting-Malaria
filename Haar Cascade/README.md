@@ -6,7 +6,7 @@ The image set is too large to upload into GIT, sample images can be seen below -
 
 ![Infected Image 1](Sample Images/5 infected.png)
 
-![Infected Image 2](Haar Cascade/Sample Images/6 infected.png)
+![Infected Image 2](Sample Images/6 infected.png)
 
 ![Infected Image 3](Haar Cascade/Sample Images/7 infected.png)
 
