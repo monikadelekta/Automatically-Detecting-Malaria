@@ -40,6 +40,7 @@ There are three solutions to this problem that have been compared. Roughly the s
     1. Create Positive & Negative Image Text File
     1. Create .vec File From Positive Images
     1. Train Cascade
+    
 3. Convolutional Neural Network
     1. Resize Images and Convert to Grayscale
     1. Label Images
