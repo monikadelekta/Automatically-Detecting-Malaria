@@ -36,6 +36,7 @@ There are three solutions to this problem that have been compared. Roughly the s
     1. Estimate Image Cell Count
     1. Colour Rebalance Image
     1. Identify and Label Infected Cells
+    
 2.Haar Cascade 
     1. Create Positive & Negative Image Text File
     1. Create .vec File From Positive Images
