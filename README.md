@@ -28,23 +28,23 @@ There is a large number of defects in the blood such as platelets, artefacts and
 There are three solutions to this problem that have been compared. Roughly the steps in each are:
 
 1. Image Processing Through Segmentation
-  1. Thresholding
-  1. Region Labelling
-  1. Morphology
-  1. Region Labelling
-  1. Calculate Image Moments for Cells
-  1. Estimate Image Cell Count
-  1. Colour Rebalance Image
-  1. Identify and Label Infected Cells
+    1. Thresholding
+    1. Region Labelling
+    1. Morphology
+    1. Region Labelling
+    1. Calculate Image Moments for Cells
+    1. Estimate Image Cell Count
+    1. Colour Rebalance Image
+    1. Identify and Label Infected Cells
 2.Haar Cascade 
-  2. Create Positive & Negative Image Text File
-  2. Create .vec File From Positive Images
-  2. Train Cascade
+    2. Create Positive & Negative Image Text File
+    2. Create .vec File From Positive Images
+    2. Train Cascade
 3. Convolutional Neural Network
-  3. Resize Images and Convert to Grayscale
-  3. Label Images
-  3. Define Model Architecture
-  3. Train/Save HDF5 Model
+    3. Resize Images and Convert to Grayscale
+    3. Label Images
+    3. Define Model Architecture
+    3. Train/Save HDF5 Model
 
 ## Results
 
