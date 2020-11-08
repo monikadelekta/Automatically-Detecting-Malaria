@@ -15,13 +15,13 @@ Evaluation shows that the CNN returns the highest accuracy and f-measure score, 
 
 The data used to produce the three proposed solutions has been split into two. There is a total of 100 images that are available for the entire project. The image set was halved so that 50 images are used for the training and development of the three solutions and the other 50 will be used for the testing of the solutions. There are a further 100 images that are identical to the initial 100 images which contain the ground truth labels. An example of the two images can be seen below.
 
-![Example images to be used for project solutions](Images/Image1)
+![Example images to be used for project solutions](Images/Image1.png)
 
 The images used have been taken from a microscopic view of a light microscope where the blood samples were first prepared by staining the blood smear with the Giemsa stain, this stain can be seen working in figure 8 where the infected cells in the ground truth image are a darker colour in comparison to the erythrocytes and background.
 
 There is a large number of defects in the blood such as platelets, artefacts and white blood cells that also get stained with the Giemsa stain when the blood smear is prepared. The background artefacts can be seen in below. The solution for this, as it was in the articles found was to remove the background from the images, however, this needed to be done as carefully as possible to preserve the structure of the erythrocytes within the images.
 
-![Background defects](Images/Image2)
+![Background defects](Images/Image2.png)
 
 
 This work was mostly completed for my final dissertation at university, I have since made tweaks to improve the code and accuracy.  
