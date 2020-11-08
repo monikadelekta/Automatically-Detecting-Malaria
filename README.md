@@ -23,5 +23,30 @@ There is a large number of defects in the blood such as platelets, artefacts and
 
 ![Background defects](Images/Image2.png)
 
+## Solutions
 
-This work was mostly completed for my final dissertation at university, I have since made tweaks to improve the code and accuracy.  
+There are three solutions to this problem that have been compared. Roughly the steps in each are:
+
+1. Image Processing Through Segmentation
+  a. Thresholding
+  b. Region Labelling
+  c. Morphology
+  d. Region Labelling
+  e. Calculate Image Moments for Cells
+  f. Estimate Image Cell Count
+  g. Colour Rebalance Image
+  h. Identify and Label Infected Cells
+2.Haar Cascade 
+  a. Create Positive & Negative Image Text File
+  b. Create .vec File From Positive Images
+  c. Train Cascade
+3. Convolutional Neural Network
+  a. Resize Images and Convert to Grayscale
+  b. Label Images
+  c. Define Model Architecture
+  d. Train/Save HDF5 Model
+
+## Results
+
+![Results Table](Images/Image3.png)
+
